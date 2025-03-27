@@ -1,0 +1,490 @@
+.site-footer,
+.site-footer * {
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 16px;
+}
+
+.site-footer {
+  position: absolute;
+  inset: 0;
+}
+
+.site-footer__bottom-bg {
+  background: #0d165c;
+  width: 100rem;
+  height: 7.8125rem;
+  position: absolute;
+  left: 0;
+  top: 311.8125rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+
+.site-footer__footer-bg {
+  width: 100rem;
+  height: 44.208125rem;
+  position: absolute;
+  left: 0;
+  top: 267.729125rem;
+  overflow: visible;
+}
+
+.site-footer__alt-desain-studio-2021-all-right-reserved {
+  color: #d7dbff;
+  text-align: right;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.5625rem;
+  top: 304.253125rem;
+  width: 31.0625rem;
+  height: 1.948625rem;
+}
+
+.site-footer__social-media {
+  width: 19.0625rem;
+  height: 1.7385rem;
+  position: absolute;
+  left: 9.375rem;
+  top: 304.375rem;
+  overflow: visible;
+}
+
+.site-footer__to-top-button {
+  width: 2.25rem;
+  height: 2.25rem;
+  position: static;
+}
+
+.site-footer__rectangle-6 {
+  background: #ff64ae;
+  border-radius: 0.3125rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 93.71875rem;
+  top: 298.9375rem;
+}
+
+.site-footer__arrow-up {
+  width: 1.125rem;
+  height: 1.125rem;
+  position: absolute;
+  left: 94.25rem;
+  top: 299.5rem;
+  overflow: visible;
+}
+
+.site-footer__sidebar-3 {
+  width: 13.4375rem;
+  height: 11.25rem;
+  position: static;
+}
+
+.site-footer__contact {
+  width: 13.4375rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__contact2 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 68.5rem;
+  top: 291.8125rem;
+  width: 6.0625rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 67.1875rem;
+  top: 292.1875rem;
+  overflow: visible;
+}
+
+.site-footer__privacy {
+  width: 13.4375rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__privacy-policy {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 68.5rem;
+  top: 1774.5rem;
+  width: 6.0625rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right3 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 67.1875rem;
+  top: 1780.5rem;
+  overflow: visible;
+}
+
+.site-footer__terms {
+  width: 13.4375rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__terms-conditions {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 68.5rem;
+  top: 1738.5rem;
+  width: 6.0625rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right4 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 67.1875rem;
+  top: 1744.5rem;
+  overflow: visible;
+}
+
+.site-footer__informations {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  position: absolute;
+  left: 67.1875rem;
+  top: 1683.5rem;
+  width: 8.75rem;
+  height: 1.9375rem;
+}
+
+.site-footer__sidebar-2 {
+  width: 8.1875rem;
+  height: 13.6875rem;
+  position: static;
+}
+
+.site-footer__team {
+  width: 8.1875rem;
+  height: 1.5rem;
+  position: static;
+}
+.site-footer__team2 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 52.5rem;
+  top: 1885rem;
+  width: 6.875rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right5 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 51.5625rem;
+  top: 1891rem;
+  overflow: visible;
+}
+
+.site-footer__portfolio {
+  width: 8.1875rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__gallery {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 52.5rem;
+  top: 1844.5rem;
+  width: 6.875rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right6 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 51.5625rem;
+  top: 1850.5rem;
+  overflow: visible;
+}
+
+.site-footer__services {
+  width: 8.1875rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__services2 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 52.5rem;
+  top: 1803.5rem;
+  width: 6.875rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right7 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 51.5625rem;
+  top: 1809.5rem;
+  overflow: visible;
+}
+
+.site-footer__about {
+  width: 8.1875rem;
+  height: 1.5rem;
+  position: static;
+}
+
+.site-footer__about2 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 52.5rem;
+  top: 1758.5rem;
+  width: 6.875rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right8 {
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 51.5625rem;
+  top: 1764.5rem;
+  overflow: visible;
+}
+
+.site-footer__home {
+  width: 8.1875rem;
+  height: 1.5rem;
+  position: static;
+}
+.site-footer__home2 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.5rem;
+  top: 2024rem;
+  width: 6.875rem;
+  height: 1.5rem;
+}
+
+.site-footer__caret-right9 {
+  width: 1.625rem;
+  height: 1.625rem;
+  position: absolute;
+  left: 48.5625rem;
+  top: 2030rem;
+  overflow: visible;
+}
+
+.site-footer__pages {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  position: absolute;
+  left: 48.5625rem;
+  top: 1969rem;
+  width: 8.0625rem;
+  height: 1.9375rem;
+}
+
+.site-footer__sidebar-1 {
+  width: 30.75rem;
+  height: 11.9375rem;
+  position: static;
+}
+
+.site-footer__mail-company-com {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-MediumItalic", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-style: italic;
+  position: absolute;
+  left: 24.3125rem;
+  top: 1886.25rem;
+  width: 9.375rem;
+  height: 1.8125rem;
+}
+
+.site-footer-mail-company-com-span {
+  color: #d7dbff;
+  font-family: "Poppins-MediumItalic", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.site-footer-mail-company-com-span2 {
+  color: #d7dbff;
+  font-family: "Poppins-MediumItalic", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.site-footer___521-569-8966 {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-MediumItalic", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-style: italic;
+  position: absolute;
+  left: 13.5625rem;
+  top: 1886.25rem;
+  width: 6.875rem;
+  height: 1.8125rem;
+}
+
+.site-footer__baker-steet-101-ny-united-states {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "Poppins-MediumItalic", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-style: italic;
+  position: absolute;
+  left: 13.75rem;
+  top: 1861rem;
+  width: 17.8125rem;
+  height: 1.9375rem;
+}
+
+.site-footer__beautice-is-a-beauty-clinic-word-press-theme {
+  color: #d7dbff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 13.5625rem;
+  top: 1814.5rem;
+  width: 28.8125rem;
+  height: 1.3125rem;
+}
+
+.site-footer-beautice-is-a-beauty-clinic-word-press-theme-span {
+  color: #d7dbff;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.site-footer-beautice-is-a-beauty-clinic-word-press-theme-span2 {
+  color: #d7dbff;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.site-footer__footer-logo {
+  width: 16.125rem;
+  height: 3.9375rem;
+  position: static;
+}
+
+.site-footer__ellipse-bg {
+  background: #ff64ae;
+  border-radius: 50%;
+  width: 3.9375rem;
+  height: 3.9375rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 2262.8125rem;
+}
+
+.site-footer__rectangle-blue {
+  background: #ffffff;
+  border-radius: 5rem;
+  width: 2.5rem;
+  height: 0.6875rem;
+  position: absolute;
+  left: 11.8125rem;
+  top: 2275.625rem;
+}
+
+.site-footer__ellipse-white-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 0.375rem;
+  height: 0.375rem;
+  position: absolute;
+  left: 10.9375rem;
+  top: 2273rem;
+}
+
+.site-footer__ellipse-white-1 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 0.8125rem;
+  height: 0.8125rem;
+  position: absolute;
+  left: 10.125rem;
+  top: 2268.5rem;
+}
+
+.site-footer__beautice {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 2.25rem;
+  font-weight: 700;
+  position: absolute;
+  left: 15.4375rem;
+  top: 2269.6875rem;
+  width: 10.0625rem;
+  height: 2.125rem;
+}

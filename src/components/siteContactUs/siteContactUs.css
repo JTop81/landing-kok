@@ -1,0 +1,346 @@
+.contact-us,
+.contact-us * {
+  box-sizing: border-box;
+}
+.contact-us {
+  /* position: absolute; */
+  inset: 0;
+}
+.contact-us .background-bubble {
+  width: 1175.73px;
+  height: 929px;
+  position: absolute;
+  left: 1175.4px;
+  top: 3142px;
+  transform: translate(-1175.4px, 0px);
+  overflow: visible;
+}
+.contact-us .contact-form {
+  width: 520px;
+  height: 652px;
+  position: static;
+}
+.contact-us .send-message-button {
+  width: 248px;
+  height: 58px;
+  position: static;
+}
+.contact-us .button-bg {
+  background: #ff64ae;
+  border-radius: 50px;
+  width: 248px;
+  height: 58px;
+  position: absolute;
+  left: 771px;
+  top: 4156px;
+  box-shadow: 0px 17px 22px 0px rgba(255, 237, 246, 1);
+}
+.contact-us .send-message {
+  color: #ffffff;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 808px;
+  top: 4171px;
+  width: 173px;
+  height: 27px;
+}
+.contact-us .inquiry-fields {
+  width: 520px;
+  height: 239.47px;
+  position: static;
+}
+.contact-us .rectangle-5 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 1px;
+  width: 520px;
+  height: 239.47px;
+  position: absolute;
+  left: 770px;
+  top: 3861.68px;
+  padding: 10px;
+  resize: none;
+}
+.contact-us .your-inquiry-here {
+  color: #c5c5c5;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 794px;
+  top: 3887px;
+  width: 229px;
+  height: 28px;
+  resize: vertical;
+}
+.contact-us .subject-fields {
+  width: 520px;
+  height: 61.58px;
+  position: static;
+}
+.contact-us .rectangle-4 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 1px;
+  width: 520px;
+  height: 61.58px;
+  position: absolute;
+  left: 770px;
+  top: 3761.79px;
+  padding: 10px;
+}
+.contact-us .subject-message {
+  color: #c5c5c5;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 794px;
+  top: 3779px;
+  width: 229px;
+  height: 28px;
+}
+.contact-us .email-fields {
+  width: 520px;
+  height: 61.58px;
+  position: static;
+}
+.contact-us .rectangle-3 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 1px;
+  width: 520px;
+  height: 61.58px;
+  position: absolute;
+  left: 770px;
+  top: 3661.89px;
+  padding: 10px;
+}
+.contact-us .email-address {
+  color: #c5c5c5;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 794px;
+  top: 3679px;
+  width: 134px;
+  height: 28px;
+}
+.contact-us .last-name-fields {
+  width: 242.21px;
+  height: 61.58px;
+  position: static;
+}
+.contact-us .rectangle-2 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 1px;
+  width: 242.21px;
+  height: 61.58px;
+  position: absolute;
+  left: 1047.79px;
+  top: 3562px;
+  padding: 10px;
+}
+.contact-us .last-name {
+  color: #c5c5c5;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1076px;
+  top: 3579px;
+  width: 134px;
+  height: 28px;
+}
+.contact-us .first-name-fields {
+  width: 242.21px;
+  height: 61.58px;
+  position: static;
+}
+.contact-us .rectangle-1 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 1px;
+  width: 242.21px;
+  height: 61.58px;
+  position: absolute;
+  left: 770px;
+  top: 3562px;
+  padding: 10px;
+}
+.contact-us .first-name {
+  color: #c5c5c5;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 794px;
+  top: 3579px;
+  width: 134px;
+  height: 28px;
+}
+.contact-us .tittle-desc {
+  width: 497px;
+  height: 169px;
+  position: static;
+}
+.contact-us .lorem-ipsum-dolor-sit-amet-nulla-turapis-tellus {
+  color: #8b8b8b;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 770px;
+  top: 3490px;
+  width: 497px;
+  height: 28px;
+}
+.contact-us .send-your-inquiry-to-our-expert-team {
+  color: #091156;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 36px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 770px;
+  top: 3381px;
+  width: 404px;
+  height: 97px;
+}
+.contact-us .contact-us2 {
+  color: #ff64ae;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 771px;
+  top: 3349px;
+}
+.contact-us .contact-animations {
+  width: 520px;
+  height: 614px;
+  position: static;
+}
+.contact-us .rectangle-52 {
+  background: rgba(164, 164, 164, 0);
+  width: 520px;
+  height: 614px;
+  position: absolute;
+  left: 150px;
+  top: 3508px;
+}
+.contact-us .contact-animations2 {
+  width: 519px;
+  height: 402px;
+  position: absolute;
+  left: 151px;
+  top: 3600px;
+  overflow: hidden;
+}
+.contact-us .group {
+  height: auto;
+  position: absolute;
+  right: 1.88%;
+  left: 1.97%;
+  width: 96.15%;
+  bottom: 10.99%;
+  top: 2.89%;
+  height: 86.12%;
+  overflow: visible;
+}
+.contact-us .group2 {
+  height: auto;
+  position: absolute;
+  left: 61.96px;
+  top: 12.08px;
+  overflow: visible;
+}
+.contact-us .x-3-c-path-x-3-e-359 {
+  height: auto;
+  position: absolute;
+  right: 12.67%;
+  left: 12.76%;
+  width: 74.57%;
+  bottom: 4.5%;
+  top: 89.87%;
+  height: 5.63%;
+  overflow: visible;
+}
+.contact-us .group11 {
+  height: auto;
+  position: absolute;
+  left: 387.86px;
+  top: 286.85px;
+  overflow: visible;
+}
+.contact-us .group15 {
+  height: auto;
+  position: absolute;
+  right: 23.31%;
+  left: 56.68%;
+  width: 20.01%;
+  bottom: 7.11%;
+  top: 46.75%;
+  height: 46.15%;
+  overflow: visible;
+}
+.contact-us .group17 {
+  height: auto;
+  position: absolute;
+  right: 30.83%;
+  left: 44.88%;
+  width: 24.29%;
+  bottom: 7.11%;
+  top: 29.24%;
+  height: 63.65%;
+  overflow: visible;
+}
+.contact-us .group33 {
+  height: auto;
+  position: absolute;
+  right: 23.45%;
+  left: 67.89%;
+  width: 8.66%;
+  bottom: 62.64%;
+  top: 28.29%;
+  height: 9.08%;
+  overflow: visible;
+}
+.contact-us .group35 {
+  height: auto;
+  position: absolute;
+  left: 67.14px;
+  top: 64.22px;
+  overflow: visible;
+}
+.contact-us .group42 {
+  height: auto;
+  position: absolute;
+  left: 134.59px;
+  top: 148.28px;
+  overflow: visible;
+}

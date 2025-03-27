@@ -1,0 +1,380 @@
+.contact-us,
+.contact-us * {
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 16px;
+}
+
+.contact-us {
+  position: absolute;
+  inset: 0;
+}
+
+.contact-us .background-bubble {
+  width: 73.4831rem;
+  height: 58.0625rem;
+  position: absolute;
+  left: 73.45rem;
+  top: 196.375rem;
+  transform: translate(-73.45rem, 0);
+  overflow: visible;
+}
+
+.contact-us .contact-form {
+  width: 32.5rem;
+  height: 40.75rem;
+  position: static;
+}
+
+.contact-us .send-message-button {
+  width: 15.5rem;
+  height: 3.625rem;
+  position: static;
+}
+
+.contact-us .button-bg {
+  background: #ff64ae;
+  border-radius: 3.125rem;
+  width: 15.5rem;
+  height: 3.625rem;
+  position: absolute;
+  left: 48.1875rem;
+  top: 259.75rem;
+  box-shadow: 0px 1.0625rem 1.375rem 0px rgba(255, 237, 246, 1);
+}
+
+.contact-us .send-message {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  position: absolute;
+  left: 50.5rem;
+  top: 260.6875rem;
+  width: 10.8125rem;
+  height: 1.6875rem;
+}
+
+.contact-us .inquiry-fields {
+  width: 32.5rem;
+  height: 14.921875rem;
+  position: static;
+}
+
+.contact-us .rectangle-5 {
+  background: #ffffff;
+  border-radius: 0.9375rem;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 0.0625rem;
+  width: 32.5rem;
+  height: 14.921875rem;
+  position: absolute;
+  left: 48.125rem;
+  top: 241.355rem;
+}
+
+.contact-us .your-inquiry-here {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.625rem;
+  top: 242.9375rem;
+  width: 14.3125rem;
+  height: 1.75rem;
+}
+
+.contact-us .subject-fields {
+  width: 32.5rem;
+  height: 3.848rem;
+  position: static;
+}
+
+.contact-us .rectangle-4 {
+  background: #ffffff;
+  border-radius: 0.9375rem;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 0.0625rem;
+  width: 32.5rem;
+  height: 3.848rem;
+  position: absolute;
+  left: 48.125rem;
+  top: 235.11125rem;
+}
+
+.contact-us .subject-message {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.625rem;
+  top: 236.11875rem;
+  width: 14.3125rem;
+  height: 1.75rem;
+}
+
+.contact-us .email-fields {
+  width: 32.5rem;
+  height: 3.848rem;
+  position: static;
+}
+
+.contact-us .rectangle-3 {
+  background: #ffffff;
+  border-radius: 0.9375rem;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 0.0625rem;
+  width: 32.5rem;
+  height: 3.848rem;
+  position: absolute;
+  left: 48.125rem;
+  top: 225.23625rem;
+}
+
+.contact-us .email-address {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.625rem;
+  top: 226.24375rem;
+  width: 8.375rem;
+  height: 1.75rem;
+}
+
+.contact-us .last-name-fields {
+  width: 15.13125rem;
+  height: 3.848rem;
+  position: static;
+}
+
+.contact-us .rectangle-2 {
+  background: #ffffff;
+  border-radius: 0.9375rem;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 0.0625rem;
+  width: 15.13125rem;
+  height: 3.848rem;
+  position: absolute;
+  left: 65.98875rem;
+  top: 59.0125rem;
+}
+
+.contact-us .last-name {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 67rem;
+  top: 59.7375rem;
+  width: 8.375rem;
+  height: 1.75rem;
+}
+
+.contact-us .first-name-fields {
+  width: 15.13125rem;
+  height: 3.848rem;
+  position: static;
+}
+
+.contact-us .rectangle-1 {
+  background: #ffffff;
+  border-radius: 0.9375rem;
+  border-style: solid;
+  border-color: #d9ddfe;
+  border-width: 0.0625rem;
+  width: 15.13125rem;
+  height: 3.848rem;
+  position: absolute;
+  left: 48.125rem;
+  top: 59.0125rem;
+}
+
+.contact-us .first-name {
+  color: #c5c5c5;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 49.625rem;
+  top: 59.7375rem;
+  width: 8.375rem;
+  height: 1.75rem;
+}
+
+.contact-us .tittle-desc {
+  width: 31.0625rem;
+  height: 10.5625rem;
+  position: static;
+}
+
+.contact-us .lorem-ipsum-dolor-sit-amet-nulla-turapis-tellus {
+  color: #8b8b8b;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  position: absolute;
+  left: 48.125rem;
+  top: 218.125rem;
+  width: 31.0625rem;
+  height: 1.75rem;
+}
+
+.contact-us .send-your-inquiry-to-our-expert-team {
+  color: #091156;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 2.25rem;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 48.125rem;
+  top: 211.3125rem;
+  width: 25.25rem;
+  height: 6.0625rem;
+}
+
+.contact-us .contact-us2 {
+  color: #ff64ae;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 1rem;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 48.1875rem;
+  top: 209.3125rem;
+}
+
+.contact-us .contact-animations {
+  width: 32.5rem;
+  height: 38.375rem;
+  position: static;
+}
+
+.contact-us .rectangle-52 {
+  background: rgba(164, 164, 164, 0);
+  width: 32.5rem;
+  height: 38.375rem;
+  position: absolute;
+  left: 9.375rem;
+  top: 219.25rem;
+}
+
+.contact-us .contact-animations2 {
+  width: 32.4375rem;
+  height: 25.125rem;
+  position: absolute;
+  left: 9.4375rem;
+  top: 225rem;
+  overflow: hidden;
+}
+
+.contact-us .group {
+  height: auto;
+  position: absolute;
+  right: 1.88%;
+  left: 1.97%;
+  width: 96.15%;
+  bottom: 10.99%;
+  top: 2.89%;
+  height: 86.12%;
+  overflow: visible;
+}
+
+.contact-us .group2 {
+  height: auto;
+  position: absolute;
+  left: 3.8725rem;
+  top: 0.755rem;
+  overflow: visible;
+}
+
+.contact-us .x-3-c-path-x-3-e-359 {
+  height: auto;
+  position: absolute;
+  right: 2.0275rem;
+  left: 2.0475rem;
+  width: 12.1425rem;
+  bottom: 0.9rem;
+  top: 14.35625rem;
+  height: 0.84375rem;
+  overflow: visible;
+}
+
+.contact-us .group11 {
+  height: auto;
+  position: absolute;
+  left: 24.2425rem;
+  top: 17.92875rem;
+  overflow: visible;
+}
+
+.contact-us .group15 {
+  height: auto;
+  position: absolute;
+  right: 7.575%;
+  left: 14.9375%;
+  width: 5.00375%;
+  bottom: 2.13875%;
+  top: 11.6875%;
+  height: 18.375%;
+  overflow: visible;
+}
+
+.contact-us .group17 {
+  height: auto;
+  position: absolute;
+  right: 9.74875%;
+  left: 14.22%;
+  width: 6.71125%;
+  bottom: 2.13875%;
+  top: 7.31%;
+  height: 23.25%;
+  overflow: visible;
+}
+
+.contact-us .group33 {
+  height: auto;
+  position: absolute;
+  right: 7.3625%;
+  left: 16.9675%;
+  width: 2.77625%;
+  bottom: 17.7125%;
+  top: 6.9175%;
+  height: 0.94375%;
+  overflow: visible;
+}
+
+.contact-us .group35 {
+  height: auto;
+  position: absolute;
+  left: 4.19625rem;
+  top: 4.01375rem;
+  overflow: visible;
+}
+
+.contact-us .group42 {
+  height: auto;
+  position: absolute;
+  left: 8.529375rem;
+  top: 9.2675rem;
+  overflow: visible;
+}

@@ -1,0 +1,259 @@
+.core-services,
+.core-services * {
+  box-sizing: border-box;
+}
+.core-services {
+  /* position: absolute; */
+  inset: 0;
+}
+.core-services .box-section-right {
+  width: 343px;
+  height: 458px;
+  position: static;
+}
+.core-services .box-bacground {
+  background: #ffffff;
+  border-radius: 42px;
+  width: 343px;
+  height: 458px;
+  position: absolute;
+  left: 947px;
+  top: 1210px;
+  box-shadow: 0px 25px 50px 25px rgba(246, 247, 255, 1);
+}
+.core-services
+  .non-parturient-amet-feugiat-tellus-sagittis-scelerisque-eget-nulla-turpis {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 981px;
+  top: 1536px;
+  width: 274px;
+  height: 80px;
+}
+.core-services .beauty-product {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 987px;
+  top: 1493px;
+  width: 263px;
+  height: 37px;
+}
+.core-services .animation-3 {
+  width: 166px;
+  height: 166px;
+  position: static;
+}
+.core-services .ellipse-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(238, 239, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 50%;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 1035px;
+  top: 1269px;
+}
+.core-services .group {
+  width: 113.26px;
+  height: 68.19px;
+  position: absolute;
+  left: 1059.37px;
+  top: 1317.97px;
+  overflow: visible;
+}
+.core-services .box-section-mid {
+  width: 343px;
+  height: 458px;
+  position: static;
+}
+.core-services .box-bacground2 {
+  background: #ffffff;
+  border-radius: 42px;
+  width: 343px;
+  height: 458px;
+  position: absolute;
+  left: 549px;
+  top: 1210px;
+  box-shadow: 0px 25px 50px 25px rgba(246, 247, 255, 1);
+}
+.core-services
+  .non-parturient-amet-feugiat-tellus-sagittis-scelerisque-eget-nulla-turpis2 {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 583px;
+  top: 1536px;
+  width: 274px;
+  height: 80px;
+}
+.core-services .skin-treatments {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 589px;
+  top: 1493px;
+  width: 263px;
+  height: 37px;
+}
+.core-services .animation-2 {
+  width: 166px;
+  height: 166px;
+  position: static;
+}
+.core-services .ellipse-12 {
+  background: linear-gradient(
+    180deg,
+    rgba(240, 241, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 50%;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 637px;
+  top: 1269px;
+}
+.core-services .group7 {
+  width: 106.4px;
+  height: 79.4px;
+  position: absolute;
+  right: 46.22%;
+  left: 46.39%;
+  width: 7.39%;
+  bottom: 72.17%;
+  top: 26.24%;
+  height: 1.59%;
+  overflow: visible;
+}
+.core-services .box-section-left {
+  width: 343px;
+  height: 458px;
+  position: static;
+}
+.core-services .box-bacground3 {
+  background: #ffffff;
+  border-radius: 42px;
+  width: 343px;
+  height: 458px;
+  position: absolute;
+  left: 150px;
+  top: 1210px;
+  box-shadow: 0px 25px 50px 25px rgba(246, 247, 255, 1);
+}
+.core-services
+  .non-parturient-amet-feugiat-tellus-sagittis-scelerisque-eget-nulla-turpis3 {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 184px;
+  top: 1536px;
+  width: 274px;
+  height: 80px;
+}
+.core-services .beauty-consultation {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 190px;
+  top: 1493px;
+  width: 263px;
+  height: 37px;
+}
+.core-services .animation-1 {
+  width: 166px;
+  height: 166px;
+  position: static;
+}
+.core-services .ellipse-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(238, 240, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 50%;
+  width: 166px;
+  height: 166px;
+  position: absolute;
+  left: 239px;
+  top: 1269px;
+}
+.core-services .anim-1 {
+  width: 106.6px;
+  height: 73px;
+  position: absolute;
+  right: 73.99%;
+  left: 18.61%;
+  width: 7.4%;
+  bottom: 72.16%;
+  top: 26.38%;
+  height: 1.46%;
+  overflow: visible;
+}
+.core-services .tittle-desc {
+  width: 848px;
+  height: 192px;
+  position: static;
+}
+.core-services
+  .porta-rhoncus-orci-condimentum-vitae-lobortis-eu-dignissim-non-massa-non-parturient-amet-feugiat-tellus-sagittis-scelerisque-eget-nulla-turpis {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 296px;
+  top: 1077px;
+  width: 848px;
+  height: 51px;
+}
+.core-services .learn-services-to-focus-on-your-beauty {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 36px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 354px;
+  top: 968px;
+  width: 732px;
+  height: 97px;
+}
+.core-services .main-services {
+  color: #ff64ae;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 664px;
+  top: 936px;
+}

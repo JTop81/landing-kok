@@ -1,0 +1,395 @@
+.professional-teams,
+.professional-teams * {
+  box-sizing: border-box;
+}
+.professional-teams {
+  /* position: absolute; */
+  inset: 0;
+}
+.professional-teams .box-section-right {
+  width: 270px;
+  height: 439px;
+  position: static;
+}
+.professional-teams .social-media {
+  width: 215px;
+  height: 49px;
+  position: static;
+}
+.professional-teams .instagram {
+  width: 49px;
+  height: 49px;
+  position: static;
+}
+.professional-teams .ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 1186px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .instagram2 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1198px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .facebook {
+  width: 49px;
+  height: 49px;
+  position: static;
+}
+.professional-teams .ellipse-22 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 1103px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .facebook-f {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1114px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .twitter {
+  width: 49px;
+  height: 49px;
+  position: static;
+}
+.professional-teams .ellipse-23 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 1020px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .twitter2 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1032px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam-purus-sit {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 993px;
+  top: 2947px;
+  width: 270px;
+  height: 63px;
+}
+.professional-teams .lilly-adams {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 996px;
+  top: 2904px;
+  width: 263px;
+  height: 37px;
+}
+.professional-teams .stylist-expert {
+  color: #ff64ae;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 1074px;
+  top: 2869px;
+}
+.professional-teams .unsplash-m-ez-3-po-f-gs-k {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  position: absolute;
+  left: 1054px;
+  top: 2670px;
+}
+.professional-teams .box-section-mid {
+  width: 424px;
+  height: 626px;
+  position: static;
+}
+.professional-teams .box-bacground {
+  background: #ffffff;
+  border-radius: 42px;
+  width: 424px;
+  height: 626px;
+  position: absolute;
+  left: 508px;
+  top: 2579px;
+  box-shadow: 0px 25px 50px 25px rgba(246, 247, 255, 1);
+}
+.professional-teams .ellipse-24 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 779px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .instagram3 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 791px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .ellipse-25 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 696px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .facebook-f2 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 707px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .ellipse-26 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 613px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .twitter3 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 625px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam-purus-sit2 {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 585px;
+  top: 2947px;
+  width: 270px;
+  height: 63px;
+}
+.professional-teams .bella-sebastian {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 589px;
+  top: 2904px;
+  width: 263px;
+  height: 37px;
+}
+.professional-teams .dermatologist {
+  color: #ff64ae;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 662px;
+  top: 2869px;
+}
+.professional-teams .unsplash-f-vh-yq-lr-9-e-a {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  position: absolute;
+  left: 647px;
+  top: 2670px;
+}
+.professional-teams .box-section-left {
+  width: 270px;
+  height: 439px;
+  position: static;
+}
+.professional-teams .ellipse-27 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 372px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .instagram4 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 384px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .ellipse-28 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 289px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .facebook-f3 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 300px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams .ellipse-29 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 206px;
+  top: 3060px;
+  box-shadow: -2px 6px 16px -1px rgba(230, 233, 253, 1);
+}
+.professional-teams .twitter4 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 218px;
+  top: 3072px;
+  overflow: visible;
+}
+.professional-teams
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam-purus-sit3 {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 178px;
+  top: 2947px;
+  width: 270px;
+  height: 63px;
+}
+.professional-teams .briyan-nevalli {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 18px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 182px;
+  top: 2904px;
+  width: 263px;
+  height: 37px;
+}
+.professional-teams .surgeon {
+  color: #ff64ae;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 279px;
+  top: 2869px;
+}
+.professional-teams .unsplash-p-trhfmj-2-j-da {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  position: absolute;
+  left: 240px;
+  top: 2670px;
+}
+.professional-teams .tittle-desc {
+  width: 848px;
+  height: 148px;
+  position: static;
+}
+.professional-teams
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam {
+  color: #8b8b8b;
+  text-align: center;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 296px;
+  top: 2441px;
+  width: 848px;
+  height: 51px;
+}
+.professional-teams .the-professional-expert {
+  color: #091156;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 36px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 354px;
+  top: 2376px;
+  width: 732px;
+  height: 53px;
+}
+.professional-teams .professional-teams2 {
+  color: #ff64ae;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 640px;
+  top: 2344px;
+}

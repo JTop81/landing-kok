@@ -1,0 +1,91 @@
+.main-slider,
+.main-slider * {
+  box-sizing: border-box;
+}
+.main-slider {
+  /* position: absolute; */
+  inset: 0;
+}
+.slide-background {
+  width: 1266.42px;
+  height: 743px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.slide-button {
+  width: 71px;
+  height: 8.15px;
+  position: absolute;
+  left: 685px;
+  top: 805px;
+  transform: translate(0px, -8.15px);
+  overflow: visible;
+}
+.more-details-button {
+  width: 200px;
+  height: 58.36px;
+  position: static;
+}
+.button-bg-slider {
+  background: #ff64ae;
+  border-radius: 50px;
+  width: 200px;
+  height: 58.36px;
+  position: absolute;
+  left: 189px;
+  top: 526px;
+  box-shadow: 0px 17px 22px 0px rgba(255, 237, 246, 1);
+}
+.more-details {
+  color: #ffffff;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 230px;
+  top: 542.36px;
+  width: 119px;
+  height: 26.94px;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-by-the-readable-content-of-a-page {
+  color: #091156;
+  text-align: left;
+  /* font-family: "Poppins-Medium", sans-serif; */
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 189px;
+  top: 444px;
+  width: 474px;
+  height: 54px;
+}
+.clinic-beauty-consultant {
+  color: #091156;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 48px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 189px;
+  top: 316px;
+  width: 430px;
+  height: 128px;
+}
+.frame-1 {
+  width: 601.5px;
+  height: 397.5px;
+  position: absolute;
+  left: 685px;
+  top: 263px;
+}
+.animation-1 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

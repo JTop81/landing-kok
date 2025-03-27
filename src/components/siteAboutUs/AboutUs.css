@@ -1,0 +1,120 @@
+.about-us,
+.about-us * {
+  box-sizing: border-box;
+}
+.about-us {
+  /* position: absolute; */
+  inset: 0;
+}
+.about-us .background-bubble {
+  width: 948.15px;
+  height: 1028.89px;
+  position: absolute;
+  left: 493px;
+  top: 1448px;
+  overflow: visible;
+}
+.about-us .unsplash-lrxys-0-t-sy-gc {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 50px;
+  width: 476px;
+  height: 350px;
+  position: absolute;
+  left: 814px;
+  top: 1847px;
+  box-shadow: 0px 0px 50px 25px rgba(255, 255, 255, 1);
+}
+.about-us .play-button {
+  width: 213px;
+  height: 49px;
+  position: static;
+}
+.about-us .play-button2 {
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 394px;
+  top: 2148.44px;
+  overflow: visible;
+}
+.about-us .watch-video {
+  color: #8b8b8b;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 456px;
+  top: 2159.44px;
+  width: 151px;
+  height: 27px;
+}
+.about-us .more-details-button {
+  width: 200px;
+  height: 58.36px;
+  position: static;
+}
+.about-us .button-bg {
+  background: #ff64ae;
+  border-radius: 50px;
+  width: 200px;
+  height: 58.36px;
+  position: absolute;
+  left: 150px;
+  top: 2143.44px;
+  box-shadow: 0px 17px 22px 0px rgba(255, 237, 246, 1);
+}
+.about-us .learn-more {
+  color: #ffffff;
+  text-align: center;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 191px;
+  top: 2159.8px;
+  width: 119px;
+  height: 26.94px;
+}
+.about-us .tittle-desc {
+  width: 664px;
+  height: 292px;
+  position: static;
+}
+.about-us
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-elit-quam-suscipit-purus-donec-amet-egestas-volutpat-facilisi-eu-libero-nunc-ipsum-ornare-mauris-sit-quam-quis-enim-varius-tellus-in-suspendisse-placerat-id-dui-erat-sed-quam-tellus-in-purus-pellentesque-congue-fringilla-cras-tellus-enim {
+  color: #8b8b8b;
+  text-align: left;
+  /* font-family: "Poppins-Regular", sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 150px;
+  top: 1898.44px;
+  width: 483px;
+  height: 196px;
+}
+.about-us .we-are-the-best-beauty-clinic {
+  color: #091156;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 36px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 150px;
+  top: 1834.44px;
+  width: 664px;
+  height: 52px;
+}
+.about-us .about-us2 {
+  color: #ff64ae;
+  text-align: left;
+  /* font-family: "Poppins-SemiBold", sans-serif; */
+  font-size: 16px;
+  line-height: 125%;
+  font-weight: 600;
+  position: absolute;
+  left: 151px;
+  top: 1802.44px;
+}
